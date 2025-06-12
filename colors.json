@@ -1,1 +1,16 @@
-{"primaryColor":"#FA1C31","secondaryColor":"#3C9CFD"}
+ {
+  "primaryColor": "#FA1C31",
+  "secondaryColor": "#97202B",
+  "blackColor": "#1E1E1E",
+  "blueColor": "#3C9CFD",
+  "yellowColor": "#FDC03C",
+  "whiteColor": "#FFFFFF",
+  "greyColor": "#828282",
+  "greyColor3": "#C4C4CC",
+  "successColor": "#25CE66",
+  "errorColor": "#FA1C31",
+  "containerSecondaryColor": "#F4F7FD",
+  "containerBGColor": "#F7F8FA",
+  "bgColor": "#D9D9D9",
+  "buttonColor": "#FA1C31",
+  }
